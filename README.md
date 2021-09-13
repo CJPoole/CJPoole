@@ -1,4 +1,4 @@
-**Hi, i'm Charlie.** 
+# **Hi, i'm Charlie.** 
 
 I'm a musician and a programmer. I taught myself everything to do with my programming ability.
 
